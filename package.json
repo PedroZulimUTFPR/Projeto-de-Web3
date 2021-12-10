@@ -1,0 +1,27 @@
+{
+  "name": "projeto-de-web3",
+  "description": "Projeto 3",
+  "main": "index.html",
+  "scripts": {
+    "server": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedroZulimUTFPR/Projeto-de-Web3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PedroZulimUTFPR/Projeto-de-Web3/issues"
+  },
+  "homepage": "https://github.com/PedroZulimUTFPR/Projeto-de-Web3#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10",
+    "nodemon": "^2.0.7",
+    "shortid": "^2.2.16"
+  }
+}
